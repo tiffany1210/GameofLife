@@ -15,5 +15,4 @@ The Game of Life is usually played on a bitmap (black and white) image over many
 
 To expand upon the standard bitmap Game of Life, the implementation reads in an ASCII full-color (24-bit) image and the rules for the variant of the Game of Life you wish to simulate, and print (to STDOUT) another ASCII full-color image of one iteration of the simulation. What makes this neat is that you’ll be running 24 simultaneous Game of Life simulations, one for every “bit plane” of the 24-bit (8 Red, 8 Blue, and 8 Green) image.
 
-
-
+![image](https://user-images.githubusercontent.com/47617094/154832930-0a2887d9-2df0-43c4-a5cb-e9efb77279b8.png)
